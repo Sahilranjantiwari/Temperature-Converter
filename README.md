@@ -1,1 +1,1 @@
-# Temperature-Converter
+A temperature converter is a practical and user-friendly online or mobile application designed to simplify the task of converting temperatures between different measurement units or scales. It provides a quick and efficient way to translate temperature values, ensuring accuracy and convenience in a wide range of applications. # Temperature-Converter
